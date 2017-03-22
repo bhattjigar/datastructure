@@ -26,10 +26,7 @@ class stack
 				std::cout<<"\n"<<finaldata;
 				if(check(data[j]))
 				{
-					
-					
-						pop(data[j]);	
-					
+					pop(data[j]);	
 					
 				}
 				else
